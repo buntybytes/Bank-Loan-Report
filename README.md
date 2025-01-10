@@ -1,9 +1,9 @@
-# 🚀 **Bank Loan Analysis Project**
+# 🚀 **Bank Loan Analysis Report**
 <img width="470" alt="Screenshot 2025-01-10 at 12 24 19 PM" src="https://github.com/user-attachments/assets/5dd01b2d-122a-49ae-9099-1efd85692f04" />
 
 
 ---
-## 🔗 **Dashboard Link:** [Link](https://github.com/buntysl/Bank-Loan-Report)
+## 🔗 **Report Link:** [Link](https://github.com/buntysl/Bank-Loan-Report)
 
 ## 🖼️ **Screenshot of the Dashboard**
 <img width="1339" alt="Screenshot 2025-01-10 at 11 59 21 AM" src="https://github.com/user-attachments/assets/7ef01d6f-b92e-4245-b468-2d46e792572e" />
